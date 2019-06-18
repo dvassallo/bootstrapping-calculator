@@ -6,4 +6,4 @@ This is a very simple spreadsheet that I used to figure out if I had enough savi
 
 ## License
 
-This project is released under the [MIT License](https://opensource.org/licenses/MIT).
+This project is released under the [MIT License](LICENSE).
